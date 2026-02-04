@@ -1,0 +1,5 @@
+Любой текстовый файл или файл электронных таблиц может быть считан как .zip файл с XML данными.
+Этот экстрактор принимает на вход как раз подобный файл и возвращает набор XML файлов с содержимым файлов, не учитывая метаданные, ТОЛЬКО КОНТЕНТ!
+--------------------------------------------------------------------------------------------
+Any text file or spreadsheet file can be read as a .zip file with XML data.
+This extractor takes such a file as input and returns a set of XML files with the contents of the files, ignoring metadata, ONLY CONTENT!
